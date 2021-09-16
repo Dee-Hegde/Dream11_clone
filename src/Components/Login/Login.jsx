@@ -12,8 +12,8 @@ function Login() {
                 <span className="Navspan2">on the App!</span>
                 <a href="../../assets/dream11.apk" target="_blank" download className="navButton" >Download App</a>
             </div>
-            <div>
-                <h5>Login</h5>
+            <div className="navDiv2">
+                <span>Login</span>
             </div>
             <div>
                 <input type="text" />

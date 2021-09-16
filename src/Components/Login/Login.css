@@ -41,6 +41,16 @@
     height: 9vh;
     background-color:black !important;
     color: white !important;
+    margin-bottom: 0px;
+}
+.navDiv2{
+    width: 100%;
+    height: 8vh;
+    margin-top: 0px;;
+    background-color:rgb(197,29,35) !important;
+    color: white !important;
+    text-align: center;
+    align-items: center;
 }
 .navButton{
     position: fixed;
