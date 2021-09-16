@@ -1,0 +1,61 @@
+.MainContainer{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    width: 100%;
+    height: 100vh;;
+}
+.container1{
+    width: 35%;
+    height: 100vh;
+}
+.container2{
+    width: 65%;
+}
+.img1{
+    width: 100%;
+    height: 99%;
+}
+.navLogo{
+    position: fixed;
+    left: 10px;
+    top: 5px;
+
+}
+.Navspan1{
+    position: fixed;
+    left: 70px;
+    top: 10px;
+    font-weight: 650;
+
+}
+.Navspan2{
+    position: fixed;
+    left: 70px;
+    top: 30px;
+    font-weight: 650;
+
+}
+.navDiv1{
+    width: 100%;
+    height: 9vh;
+    background-color:black !important;
+    color: white !important;
+}
+.navButton{
+    position: fixed;
+    top: 20px;
+    left: 420px;
+    cursor: pointer;
+    background-color: #008c37;
+    border-radius: 4px;
+    padding: 8px 16px;
+    font-family: inherit;
+    font-size: 12px;
+    font-weight: 500;
+    border: none;
+    outline: none;
+    color: #fff;
+    text-decoration: none;
+    text-transform: uppercase;
+}
